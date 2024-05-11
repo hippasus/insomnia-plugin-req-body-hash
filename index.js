@@ -46,7 +46,7 @@ function replaceWithHash(content, body) {
 
 module.exports.templateTags = [
   {
-    name: "requestbodyhash",
+    name: "reqbodyhash",
     displayName: "Request Body Hash",
     description: "Hash a value or the request body",
     args: [
