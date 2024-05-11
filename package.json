@@ -5,10 +5,10 @@
   "description": "Insomnia template tag for HASH signature of value or request body",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hippasus/insomnia-plugin-request-body-hash.git"
+    "url": "git+https://github.com/hippasus/insomnia-plugin-req-body-hash.git"
   },
   "bugs": {
-    "url": "https://github.com/hippasus/insomnia-plugin-request-body-hash"
+    "url": "https://github.com/hippasus/insomnia-plugin-req-body-hash"
   },
   "dependencies": {
     "jsonpath-plus": "4.0.0"
