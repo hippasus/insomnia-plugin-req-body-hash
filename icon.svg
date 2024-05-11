@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 45px;
+        fill: #9c27b0;
+        text-anchor: middle;
+        font-family: Helvetica;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text id="_" data-name="{" class="cls-1" x="12.768" y="50.804"><tspan x="12.768">{</tspan></text>
+  <image x="21" y="22" width="36" height="36" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAAaElEQVRYhe3VwQmAMBAAwYvNpJ0UYVkWkXZSjb4FdSGC3mPnncDCkVwJsNW+X51YR3u8O3tvoaCvGUQMIgaRcvdf/MWREYNIvldGB9z2CRpODCIGEbc9cWTEIOK2d9u/ZRAxiOQKiogDUIMdKBinRaAAAAAASUVORK5CYII="/>
+  <text id="_2" data-name="}" class="cls-1" x="65.768" y="50.804"><tspan x="65.768"> }</tspan></text>
+</svg>
